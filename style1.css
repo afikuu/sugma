@@ -1,0 +1,40 @@
+*,
+    html  {
+        margin: 0;
+        padding: 0;
+    
+    
+    
+    }
+
+
+.sigma-satu1 {
+font-size : 25px;
+            color:rgb(52, 28, 91);  height: 40vh; }
+    
+
+body {
+    background-color:rgb(133, 186, 235) 
+
+}
+
+.sigma {
+height: 60vh;  
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+.sigmaduaa { background-color:rgb(52, 28, 91); color:rgb(133, 186, 235); 
+ padding: 20px;
+}
+
+
+/* .sigmadu {height: 50vh; */
+/* display: flex; */
+/* justify-content: flex; */
+/* align-items: center; */
+/* background-color: aqua; */
+ 
+/* } */
