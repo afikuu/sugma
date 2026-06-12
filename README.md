@@ -1,2 +1,0 @@
-# sugma
-web
